@@ -2,6 +2,7 @@ import streamlit as st
 import time
 import backend
 
+st.set_page_config(page_title="Nutrition Chatbot", layout="wide")
 # Sidebar for API key input
 if "api_key_entered" not in st.session_state:
     st.session_state.api_key_entered = False
