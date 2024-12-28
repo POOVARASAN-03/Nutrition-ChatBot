@@ -1,4 +1,4 @@
-# Nutrition-ChatBot
+
 # Meet NutriBot 🌱  
 
 **NutriBot** is your personal digital nutrition assistant, designed to make healthy eating simple and enjoyable! Whether you're planning meals, tracking calories, or looking for dietary tips, NutriBot is here to guide you every step of the way.  
